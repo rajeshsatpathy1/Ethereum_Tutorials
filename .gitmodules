@@ -1,0 +1,3 @@
+[submodule "Inbox"]
+	path = Inbox
+	url = git@github.com:rajeshsatpathy1/Inbox.git
