@@ -1,3 +1,6 @@
 [submodule "Inbox"]
 	path = Inbox
 	url = git@github.com:rajeshsatpathy1/Inbox.git
+[submodule "Lottery"]
+	path = Lottery
+	url = git@github.com:rajeshsatpathy1/Lottery.git
