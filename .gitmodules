@@ -4,3 +4,6 @@
 [submodule "Lottery"]
 	path = Lottery
 	url = git@github.com:rajeshsatpathy1/Lottery.git
+[submodule "lottery_react"]
+	path = lottery_react
+	url = git@github.com:rajeshsatpathy1/lottery_react.git
