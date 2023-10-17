@@ -7,3 +7,6 @@
 [submodule "lottery_react"]
 	path = lottery_react
 	url = git@github.com:rajeshsatpathy1/lottery_react.git
+[submodule "kickstarter"]
+	path = kickstarter
+	url = git@github.com:rajeshsatpathy1/kickstarter.git
