@@ -18,6 +18,6 @@ A collection of projects from Udemy's Ethereum Blockchain Tutorials https://www.
 - ### Kickstarter App
   - Create a fully functional end-to-end project which interacts with contracts.
   - Explore next.js for server side rendering of the frontend and realize its importance in blockchain based applications.
-  - Explore singleton factor patterns to abstract and control main contract functionalities.
+  - Explore singleton factory patterns to abstract and control main contract functionalities.
  
 _Note: Try accessing the main branch of the projects to get the updated commits_
