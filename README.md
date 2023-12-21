@@ -1,5 +1,5 @@
 # Ethereum_Tutorials
-A collection of projects from Udemy's Ethereum Blockchain Tutorials https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
+A collection of projects from Udemy's Ethereum Blockchain Tutorials https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide by Stephen Grider
 
 ## Content Projects
 - ### Inbox:
